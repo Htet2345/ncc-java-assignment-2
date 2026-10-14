@@ -1,0 +1,7 @@
+config.properties
+bin/
+target/
+lib/*.jar
+lib/*.partial
+*.class
+*.log
